@@ -369,7 +369,7 @@ Donations
 ---------
 To support development of this project feel free to donate :)
 
-* BTC: `1KRotMnQpxu3sePQnsVLRy3EraRFYfJQFR`
+* BTC: `1NnzZMGJeSbmmTYFEwKPBR9MKv4RTPRCNV`
 * LTC: `LKfavSDJmwiFdcgaP1bbu46hhyiWw5oFhE`
 * VTC: `VgW4uFTZcimMSvcnE4cwS3bjJ6P8bcTykN`
 * MAX: `mWexUXRCX5PWBmfh34p11wzS5WX2VWvTRT`
